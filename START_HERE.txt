@@ -1,0 +1,12 @@
+
+Annotation Studio 0.5.4
+
+Use 64-bit Python 3.11 or 3.12.
+Windows: run INSTALL_WINDOWS.bat, then RUN_WINDOWS.bat.
+Linux: run bash install_linux.sh, then bash run_linux.sh.
+
+For a short example, open File > Open synthetic annotation demo.
+For your own sessions, open a project or add local motion, video and audio.
+Use Auto-detect for candidates and review them before export.
+
+See README.md for setup and tests, and the illustrated English guide in docs/.

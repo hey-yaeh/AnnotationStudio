@@ -1,0 +1,5 @@
+# Optional YAMNet runtime. Model weights are a separate explicit download.
+# Current TensorFlow runs on native Windows CPU; use WSL2 for supported CUDA.
+tensorflow>=2.16,<3
+tensorflow-hub>=0.16,<1
+soundfile>=0.12,<1

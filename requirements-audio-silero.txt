@@ -1,0 +1,5 @@
+# Optional local speech-activity model. No diarization or listener inference.
+# Install a CPU PyTorch wheel first if you do not want a GPU runtime.
+torch>=2.2,<3
+silero-vad>=6.2,<7
+soundfile>=0.12,<1
